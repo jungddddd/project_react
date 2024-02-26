@@ -1,0 +1,453 @@
+{
+  "success": true,
+  "code": 0,
+  "message": "Ok",
+  "data": [
+    [
+      {
+        "id": 13,
+        "title": "CLOVA OCR 이렇게 사용하세요! #2탄 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/SJ32PLGl278n/76590/ProjectInfo/Cover/32af8178a668404f8a2ce102f8f7ce7e.png",
+        "hostProfile": "",
+        "category_name": "IT/프로그래밍",
+        "eventDateTimeString": "12월 28일 (목)",
+        "remainingDays": 6,
+        "isFree": 1
+      },
+      {
+        "id": 25,
+        "title": "1000만원 아끼는 창업 디자인 세미나 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/servicedesign/76568/ProjectInfo/Cover/16e4063831fe4e4996ab7253be23b9fb.jpg",
+        "hostProfile": "",
+        "category_name": "창업",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 6,
+        "isFree": 0
+      },
+      {
+        "id": 26,
+        "title": "[심리검사포함] 심리학자의 글쓰기 수업 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/yhheo/76554/ProjectInfo/Cover/a9a35ac47022469581bde8a47d7d3e29.jpg",
+        "hostProfile": "",
+        "category_name": "인문/사회",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 1,
+        "isFree": 0
+      },
+      {
+        "id": 28,
+        "title": "[한국중소기업발전협회] 제18회 초기창업기업을 위한 벤처인증 지원사업 설명회 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/YuGoVNuO7zVb/76564/ProjectInfo/Cover/7e18813cd9a6421c86744456db7306e9.jpg",
+        "hostProfile": "",
+        "category_name": "경영",
+        "eventDateTimeString": "12월 29일 (금)",
+        "remainingDays": 5,
+        "isFree": 1
+      }
+    ],
+    [
+      {
+        "id": 29,
+        "title": "d-camp와 함께 하는 2024 워크넥트 부산 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/ideahackathon/76551/ProjectInfo/Cover/b58913a6e82142e08dec21d3c6ab4c49.png",
+        "hostProfile": "",
+        "category_name": "창업",
+        "eventDateTimeString": "12월 20일 (수)",
+        "remainingDays": 14,
+        "isFree": 1
+      },
+      {
+        "id": 28,
+        "title": "[한국중소기업발전협회] 제18회 초기창업기업을 위한 벤처인증 지원사업 설명회 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/YuGoVNuO7zVb/76564/ProjectInfo/Cover/7e18813cd9a6421c86744456db7306e9.jpg",
+        "hostProfile": "",
+        "category_name": "경영",
+        "eventDateTimeString": "12월 29일 (금)",
+        "remainingDays": 5,
+        "isFree": 1
+      },
+      {
+        "id": 27,
+        "title": "d-camp와 함께 하는 2024 워크넥트 강원 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/ideahackathon/76553/ProjectInfo/Cover/a19235ae8bd6413f8369328c1127f7bd.png",
+        "hostProfile": "",
+        "category_name": "창업",
+        "eventDateTimeString": "12월 26일 (화)",
+        "remainingDays": 20,
+        "isFree": 1
+      },
+      {
+        "id": 26,
+        "title": "[심리검사포함] 심리학자의 글쓰기 수업 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/yhheo/76554/ProjectInfo/Cover/a9a35ac47022469581bde8a47d7d3e29.jpg",
+        "hostProfile": "",
+        "category_name": "인문/사회",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 1,
+        "isFree": 0
+      },
+      {
+        "id": 25,
+        "title": "1000만원 아끼는 창업 디자인 세미나 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/servicedesign/76568/ProjectInfo/Cover/16e4063831fe4e4996ab7253be23b9fb.jpg",
+        "hostProfile": "",
+        "category_name": "창업",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 6,
+        "isFree": 0
+      },
+      {
+        "id": 24,
+        "title": "(앵콜강연) 심리학이 말하는 동기부여 잘하기 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/yhheo/76576/ProjectInfo/Cover/a30e99a8006a414897d432a6be4f50df.jpg",
+        "hostProfile": "",
+        "category_name": "커리어",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 8,
+        "isFree": 0
+      },
+      {
+        "id": 23,
+        "title": "북커넥트 1기 독서 모임 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/gh/76572/ProjectInfo/Cover/53c51424cb4845f398293964761d062e.png",
+        "hostProfile": "",
+        "category_name": "인문/사회",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 55,
+        "isFree": 1
+      },
+      {
+        "id": 22,
+        "title": "쇼핑몰을 위한 스티비 사용법 웨비나 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/stibeemail/76573/ProjectInfo/Cover/1dc6cb735f4645f1aaa73fe1377cdeeb.png",
+        "hostProfile": "",
+        "category_name": "마케팅",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 14,
+        "isFree": 1
+      },
+      {
+        "id": 21,
+        "title": "2024 세바시 신년 첫 라이브 특강, 치열한 도전끝 성공 오현호 작가 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/sebasi/76574/ProjectInfo/Cover/cbc3c5116c5544d2a26156d29d8ae8df.jpg",
+        "hostProfile": "",
+        "category_name": "인문/사회",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 0,
+        "isFree": 1
+      },
+      {
+        "id": 20,
+        "title": "세바시 대학 2전공 패키지! 일석이조! 일타이피! ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/sebasi/76575/ProjectInfo/Cover/ecebb7a6c4f441f681dc8739662613cd.jpg",
+        "hostProfile": "",
+        "category_name": "인문/사회",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 117,
+        "isFree": 0
+      },
+      {
+        "id": 19,
+        "title": "세바시 강연자들의 강의를 한번에! 세바시대학 올패키지 전공 오픈 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/sebasi/76577/ProjectInfo/Cover/593d25d6e1024c41a30c168eea7bb870.jpg",
+        "hostProfile": "",
+        "category_name": "인문/사회",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 117,
+        "isFree": 0
+      },
+      {
+        "id": 18,
+        "title": "<끈기보다 끊기> 유영만 작가에게 배우는 AI를 이기는 질문법 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/sebasi/76578/ProjectInfo/Cover/9129b0b817b4459eaffbe4787f9c1439.jpg",
+        "hostProfile": "",
+        "category_name": "인문/사회",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 117,
+        "isFree": 0
+      }
+    ],
+    [
+      {
+        "id": 15,
+        "title": "HyperCLOVA X를 쉽게 활용할 수 있는 CLOVA Studio ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/SJ32PLGl278n/76587/ProjectInfo/Cover/a5b480fea7ce461198d4db6c3323d9bf.png",
+        "hostProfile": "",
+        "category_name": "IT/프로그래밍",
+        "eventDateTimeString": "12월 28일 (목)",
+        "remainingDays": 13,
+        "isFree": 1
+      },
+      {
+        "id": 29,
+        "title": "d-camp와 함께 하는 2024 워크넥트 부산 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/ideahackathon/76551/ProjectInfo/Cover/b58913a6e82142e08dec21d3c6ab4c49.png",
+        "hostProfile": "",
+        "category_name": "창업",
+        "eventDateTimeString": "12월 20일 (수)",
+        "remainingDays": 14,
+        "isFree": 1
+      },
+      {
+        "id": 28,
+        "title": "[한국중소기업발전협회] 제18회 초기창업기업을 위한 벤처인증 지원사업 설명회 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/YuGoVNuO7zVb/76564/ProjectInfo/Cover/7e18813cd9a6421c86744456db7306e9.jpg",
+        "hostProfile": "",
+        "category_name": "경영",
+        "eventDateTimeString": "12월 29일 (금)",
+        "remainingDays": 5,
+        "isFree": 1
+      },
+      {
+        "id": 27,
+        "title": "d-camp와 함께 하는 2024 워크넥트 강원 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/ideahackathon/76553/ProjectInfo/Cover/a19235ae8bd6413f8369328c1127f7bd.png",
+        "hostProfile": "",
+        "category_name": "창업",
+        "eventDateTimeString": "12월 26일 (화)",
+        "remainingDays": 20,
+        "isFree": 1
+      },
+      {
+        "id": 26,
+        "title": "[심리검사포함] 심리학자의 글쓰기 수업 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/yhheo/76554/ProjectInfo/Cover/a9a35ac47022469581bde8a47d7d3e29.jpg",
+        "hostProfile": "",
+        "category_name": "인문/사회",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 1,
+        "isFree": 0
+      },
+      {
+        "id": 25,
+        "title": "1000만원 아끼는 창업 디자인 세미나 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/servicedesign/76568/ProjectInfo/Cover/16e4063831fe4e4996ab7253be23b9fb.jpg",
+        "hostProfile": "",
+        "category_name": "창업",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 6,
+        "isFree": 0
+      },
+      {
+        "id": 24,
+        "title": "(앵콜강연) 심리학이 말하는 동기부여 잘하기 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/yhheo/76576/ProjectInfo/Cover/a30e99a8006a414897d432a6be4f50df.jpg",
+        "hostProfile": "",
+        "category_name": "커리어",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 8,
+        "isFree": 0
+      },
+      {
+        "id": 23,
+        "title": "북커넥트 1기 독서 모임 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/gh/76572/ProjectInfo/Cover/53c51424cb4845f398293964761d062e.png",
+        "hostProfile": "",
+        "category_name": "인문/사회",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 55,
+        "isFree": 1
+      },
+      {
+        "id": 22,
+        "title": "쇼핑몰을 위한 스티비 사용법 웨비나 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/stibeemail/76573/ProjectInfo/Cover/1dc6cb735f4645f1aaa73fe1377cdeeb.png",
+        "hostProfile": "",
+        "category_name": "마케팅",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 14,
+        "isFree": 1
+      },
+      {
+        "id": 20,
+        "title": "세바시 대학 2전공 패키지! 일석이조! 일타이피! ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/sebasi/76575/ProjectInfo/Cover/ecebb7a6c4f441f681dc8739662613cd.jpg",
+        "hostProfile": "",
+        "category_name": "인문/사회",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 117,
+        "isFree": 0
+      },
+      {
+        "id": 19,
+        "title": "세바시 강연자들의 강의를 한번에! 세바시대학 올패키지 전공 오픈 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/sebasi/76577/ProjectInfo/Cover/593d25d6e1024c41a30c168eea7bb870.jpg",
+        "hostProfile": "",
+        "category_name": "인문/사회",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 117,
+        "isFree": 0
+      },
+      {
+        "id": 18,
+        "title": "<끈기보다 끊기> 유영만 작가에게 배우는 AI를 이기는 질문법 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/sebasi/76578/ProjectInfo/Cover/9129b0b817b4459eaffbe4787f9c1439.jpg",
+        "hostProfile": "",
+        "category_name": "인문/사회",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 117,
+        "isFree": 0
+      },
+      {
+        "id": 17,
+        "title": "<자존감수업> 윤홍균 작가에게 배우는 의지력으로 삶을 살아가는 힘 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/sebasi/76579/ProjectInfo/Cover/5fb1fae5225a43a7991de3f60aca9d56.png",
+        "hostProfile": "",
+        "category_name": "인문/사회",
+        "eventDateTimeString": "12월 27일 (수)",
+        "remainingDays": 117,
+        "isFree": 0
+      },
+      {
+        "id": 16,
+        "title": "2024년 전기차 사용 후 배터리 기술ㆍ시장이슈 및 전망과 사업전략 세미나 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/lfow3BsRr5Ez/76580/ProjectInfo/Cover/a9044443b9b14bfcaa5910fbc52154e4.jpg",
+        "hostProfile": "",
+        "category_name": "행사 기획",
+        "eventDateTimeString": "12월 28일 (목)",
+        "remainingDays": 21,
+        "isFree": 0
+      },
+      {
+        "id": 1,
+        "title": "제 41회 매일 읽는 힘을 키우는 매력독서 원서읽기 새해 첫 모임입니다. ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/dailyreading/76647/ProjectInfo/Cover/6659998565ef42a4933cb7e520674640.jpg",
+        "hostProfile": "",
+        "category_name": "인문/사회",
+        "eventDateTimeString": "12월 29일 (금)",
+        "remainingDays": 27,
+        "isFree": 0
+      },
+      {
+        "id": 14,
+        "title": "성장하는 이커머스 기업을 위한 독립형 이커머스 솔루션, 메타커머스 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/SJ32PLGl278n/76588/ProjectInfo/Cover/945a9cf6ed9c48898d140a78c8ea8033.png",
+        "hostProfile": "",
+        "category_name": "IT/프로그래밍",
+        "eventDateTimeString": "12월 28일 (목)",
+        "remainingDays": 20,
+        "isFree": 1
+      },
+      {
+        "id": 13,
+        "title": "CLOVA OCR 이렇게 사용하세요! #2탄 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/SJ32PLGl278n/76590/ProjectInfo/Cover/32af8178a668404f8a2ce102f8f7ce7e.png",
+        "hostProfile": "",
+        "category_name": "IT/프로그래밍",
+        "eventDateTimeString": "12월 28일 (목)",
+        "remainingDays": 6,
+        "isFree": 1
+      },
+      {
+        "id": 12,
+        "title": "2024 리워드 광고 트렌드 웨비나 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/buzzvil/76593/ProjectInfo/Cover/69760747b20f4ef788588059cae89c89.png",
+        "hostProfile": "",
+        "category_name": "마케팅",
+        "eventDateTimeString": "12월 28일 (목)",
+        "remainingDays": 11,
+        "isFree": 1
+      },
+      {
+        "id": 11,
+        "title": "글로벌 빅테크의 신제품 개발: Microsoft와 Meta의 UX 리서치를 활용한 신제품 개발 예 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/songinsightslab/76599/ProjectInfo/Cover/f54a3d80b6f547bd9e3ca67d700af093.png",
+        "hostProfile": "",
+        "category_name": "창업",
+        "eventDateTimeString": "12월 28일 (목)",
+        "remainingDays": 8,
+        "isFree": 0
+      },
+      {
+        "id": 10,
+        "title": "TSOM 오프라인 민화 클래스 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/tsom/76601/ProjectInfo/Cover/ec254835c4324623be987ab271ff7a5c.jpg",
+        "hostProfile": "",
+        "category_name": "예술",
+        "eventDateTimeString": "12월 28일 (목)",
+        "remainingDays": 83,
+        "isFree": 0
+      },
+      {
+        "id": 9,
+        "title": "작은회사및 창업자를위한 작은마케팅클리닉_이론편_라이브(1/27) ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/klon/76602/ProjectInfo/Cover/81873dee7b9a419ca538162f6af7fe76.jpg",
+        "hostProfile": "",
+        "category_name": "마케팅",
+        "eventDateTimeString": "12월 28일 (목)",
+        "remainingDays": 22,
+        "isFree": 1
+      },
+      {
+        "id": 8,
+        "title": "큐니버시티 01월 입학설명회 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/moducampus/76630/ProjectInfo/Cover/57ce84d6a0c34972ad8dd11d35becc54.png",
+        "hostProfile": "",
+        "category_name": "인문/사회",
+        "eventDateTimeString": "12월 29일 (금)",
+        "remainingDays": 11,
+        "isFree": 1
+      },
+      {
+        "id": 7,
+        "title": "Morning Peace 모닝피스 - 아침묵상모임 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/gdislv/76631/ProjectInfo/Cover/17980cf4c555413fa74152d9bde06be9.png",
+        "hostProfile": "",
+        "category_name": "라이프",
+        "eventDateTimeString": "12월 29일 (금)",
+        "remainingDays": 25,
+        "isFree": 1
+      },
+      {
+        "id": 6,
+        "title": "스피치 클래스 《면접관의 마음을 움직이는 면접 합격 스킬》 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/understand00/76634/ProjectInfo/Cover/101a11c5e5724e8a934beaf3c97c9ecf.jpg",
+        "hostProfile": "",
+        "category_name": "커리어",
+        "eventDateTimeString": "12월 29일 (금)",
+        "remainingDays": 14,
+        "isFree": 1
+      },
+      {
+        "id": 5,
+        "title": "IR 발표 및 피드백 프로그램 「제로투원파트너스 오피스아워」 1월 참가 모집 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/pIpUO6HrSD5U/76635/ProjectInfo/Cover/e3f7b21ba3524cebbaf0c7ea9c4e4c8f.jpg",
+        "hostProfile": "",
+        "category_name": "창업",
+        "eventDateTimeString": "12월 29일 (금)",
+        "remainingDays": 24,
+        "isFree": 1
+      },
+      {
+        "id": 4,
+        "title": "[합격사업계획서 제공] 나에게 맞는 2024 창업지원사업 찾아볼까요? ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/jinhanism/76637/ProjectInfo/Cover/a02b2693849740e8ada6ef061bce0607.jpg",
+        "hostProfile": "",
+        "category_name": "창업",
+        "eventDateTimeString": "12월 29일 (금)",
+        "remainingDays": 15,
+        "isFree": 1
+      },
+      {
+        "id": 3,
+        "title": "[한국중소기업발전협회] 2024년 상반기 1차 중소기업 특허출원비용 지원사업 설명회 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/YuGoVNuO7zVb/76642/ProjectInfo/Cover/33861c289851427b9ce040cd5262158d.jpg",
+        "hostProfile": "",
+        "category_name": "경영",
+        "eventDateTimeString": "01월 02일 (화)",
+        "remainingDays": 27,
+        "isFree": 1
+      },
+      {
+        "id": 2,
+        "title": "[한국중소기업발전협회] 2024년 상반기 1차 중소기업 특허출원비용 지원사업 ",
+        "thumbnail": "https://eventusstorage.blob.core.windows.net/evs/Image/YuGoVNuO7zVb/76643/ProjectInfo/Cover/5499f8926b904764b764e4eefe44eddd.jpg",
+        "hostProfile": "",
+        "category_name": "경영",
+        "eventDateTimeString": "01월 02일 (화)",
+        "remainingDays": 26,
+        "isFree": 0
+      }
+    ]
+  ]
+}
